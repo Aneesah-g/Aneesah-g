@@ -13,6 +13,7 @@
 <h2>📺 Blog Post</h2>
 
 - [Debit Card Scam](https://dev.to/https_aneesah/debit-card-scam-courtesy-of-cashapp-1169)
+- [Explore It Testing](https://github.com/Aneesah-g/ExploreIt-Testing/wiki)
   
 <!--
 <h2> 🤳 Connect with me:</h2>
